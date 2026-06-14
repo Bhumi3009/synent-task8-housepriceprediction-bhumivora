@@ -35,6 +35,11 @@ Features:
 7. Evaluated performance using RMSE and R² Score.
 8. Created Streamlit application for predictions.
 
+## Demo Video
+
+Combined Internship Demo Video:
+
+https://youtu.be/ktTSKTmpw4w
 ## Results
 
 - Random Forest achieved strong predictive performance.
